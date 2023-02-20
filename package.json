@@ -1,0 +1,25 @@
+{
+  "name": "chat-gpt3-node",
+  "description": "Chat GPT3 By Node.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/chat-gpt3-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/chat-gpt3-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/chat-gpt3-node/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "openai": "3.1.0"
+  }
+}
